@@ -7,7 +7,7 @@
 	text-transform: uppercase;
 }
 
-.skills {
+.columns {
 	-webkit-columns: 3 200px;
      -moz-columns: 3 200px;
           columns: 3 200px;
