@@ -2,7 +2,6 @@
 a img { border-style:none; }
 a { text-decoration:none; }
 ul li { list-style-type:none; margin:0; padding:0; }
-hr { margin:0; padding:0; display:none; }
 
 body {
 	background-color: #7baac9;
@@ -62,6 +61,5 @@ a:active {
 .experience .experience-content {
 	font-family: 'Domine', serif;
 	font-size: 18px;
-	margin-top: 0px;
-	margin-bottom: 0px;
+	margin-bottom: 20px;
 }
