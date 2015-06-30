@@ -22,17 +22,9 @@ h4 {
 	color: #4F484F;
 }
 
-.other h4 {
-	color: #4F484F;
-}
-
 p {
 	font-family: 'Domine', serif;
 	font-size: 18px;
-}
-
-.other h4 {
-	color: #4F484F;
 }
 
 a {
@@ -57,6 +49,10 @@ a:active {
 
 .h1 {
 	text-transform: uppercase;
+}
+
+.other h4 {
+	color: #4F484F;
 }
 
 .container {
