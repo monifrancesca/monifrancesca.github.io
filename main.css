@@ -24,7 +24,7 @@ a {
 }
 
 a:link {
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a:visited {
@@ -69,5 +69,6 @@ a:active {
 .experience .experience-content {
 	font-family: 'Domine', serif;
 	font-size: 18px;
+	margin-top: 20px;
 	margin-bottom: 50px;
 }
