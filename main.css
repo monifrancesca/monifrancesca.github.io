@@ -72,6 +72,8 @@ a:active {
 .skills {
 	margin-bottom: 50px;
 	width: 100%;
+	background-color: #eee;
+	padding: 20px;
 }
 
 .skills h1 {
