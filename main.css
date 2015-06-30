@@ -4,7 +4,7 @@ a { text-decoration:none; }
 ul li { margin:0; padding:0; }
 
 ul {
-	margin-left: 40px;
+	margin-left: 20px;
 }
 
 body {
@@ -76,8 +76,6 @@ a:active {
 
 .skills h1 {
 	margin-bottom: 20px;
-	background-color: #eee;
-	padding: 20px;
 }
 
 .experience {
