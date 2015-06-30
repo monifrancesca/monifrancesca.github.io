@@ -38,6 +38,11 @@ a:active {
 	text-transform: uppercase;
 }
 
+.container {
+	width: 800px;
+	margin: 20px auto 40px;
+}
+
 .columns {
 	-webkit-columns: 3 200px;
      -moz-columns: 3 200px;
