@@ -76,6 +76,8 @@ a:active {
 
 .skills h1 {
 	margin-bottom: 20px;
+	background-color: #eee;
+	padding: 20px;
 }
 
 .experience {
@@ -96,6 +98,8 @@ a:active {
 
 .other {
 	margin-bottom: 50px;
+	background-color: #eee;
+	padding: 20px;
 }
 
 .other h1 {
