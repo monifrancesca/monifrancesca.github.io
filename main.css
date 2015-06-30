@@ -6,3 +6,7 @@
 .header {
 	text-transform: uppercase;
 }
+
+.column {
+	columns: 3 200px;
+}
