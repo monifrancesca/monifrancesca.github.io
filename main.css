@@ -1,7 +1,12 @@
 * { margin:0; padding:0; }
 a img { border-style:none; }
 a { text-decoration:none; }
-ul li { margin:20; padding:20; }
+ul li { margin:0; padding:0; }
+
+ul {
+	margin-top: 20px;
+	margin-left: 20px;
+}
 
 body {
 	background-color: #7baac9;
@@ -69,6 +74,5 @@ a:active {
 .experience .experience-content {
 	font-family: 'Domine', serif;
 	font-size: 18px;
-	margin-top: 20px;
 	margin-bottom: 50px;
 }
