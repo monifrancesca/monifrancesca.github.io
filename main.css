@@ -7,6 +7,10 @@ ul {
 	margin-left: 20px;
 }
 
+.other h4 {
+	color: #4F484F;
+}
+
 body {
 	background-color: #7baac9;
 	font-family: 'Domine', serif;
@@ -49,10 +53,6 @@ a:active {
 
 .h1 {
 	text-transform: uppercase;
-}
-
-.other h4 {
-	color: #4F484F;
 }
 
 .container {
