@@ -55,5 +55,13 @@ a:active {
 
 .experience-content {
 	font-family: 'Domine', serif;
-	font-size: 18px;	
+	font-size: 18px;
+}
+
+.experience div {
+	display: inline;
+}
+
+.other div {
+	display: inline;
 }
