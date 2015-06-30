@@ -7,6 +7,6 @@
 	text-transform: uppercase;
 }
 
-.column {
+.skills .column {
 	columns: 3 200px;
 }
