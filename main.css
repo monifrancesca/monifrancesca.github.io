@@ -58,6 +58,14 @@ a:active {
 	float: right;
 }
 
+.header {
+	margin-bottom: 50px;
+}
+
+.skills {
+	margin-bottom: 50px;
+}
+
 .experience .experience-content {
 	font-family: 'Domine', serif;
 	font-size: 18px;
