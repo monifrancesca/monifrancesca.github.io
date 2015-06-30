@@ -31,6 +31,10 @@ p {
 	font-size: 18px;
 }
 
+.other h4 {
+	color: #4F484F;
+}
+
 a {
 	color: #000;
 }
@@ -110,10 +114,6 @@ a:active {
 
 .other h1 {
 	margin-bottom: 20px;
-}
-
-.other h4 {
-	color: #4F484F;
 }
 
 .other p	{
