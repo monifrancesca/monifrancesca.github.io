@@ -65,13 +65,13 @@ a:active {
 
 .header {
 	margin-bottom: 50px;
+	background-color: #eee;
+	padding: 20px;	
 }
 
 .skills {
 	margin-bottom: 50px;
-	padding: 20px;
 	width: 100%;
-	background-color: #eee;
 }
 
 .skills h1 {
