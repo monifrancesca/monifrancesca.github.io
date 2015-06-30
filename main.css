@@ -72,8 +72,16 @@ a:active {
 	width: 100%;
 }
 
+.skills h1 {
+	margin-bottom: 20px;
+}
+
 .experience {
 	margin-bottom: 50px;
+}
+
+.experience h1 {
+	margin-bottom: 20px;
 }
 
 .experience .experience-content {
@@ -84,4 +92,8 @@ a:active {
 
 .other {
 	margin-bottom: 50px;
+}
+
+.other h1 {
+	margin-bottom: 20px;
 }
