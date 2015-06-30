@@ -48,3 +48,12 @@ a:active {
      -moz-columns: 3 200px;
           columns: 3 200px;
 }
+
+.year {
+	float: right;
+}
+
+.experience-content {
+	font-family: 'Domine', serif;
+	font-size: 18px;	
+}
