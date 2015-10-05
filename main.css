@@ -134,3 +134,12 @@ section h1 {
 	background-color: #fff;
 	border-radius: 4px 10px 10px 10px;
 }
+
+@font-face {
+	font-family: sans-serif;
+	src: url();
+}
+header .contact_info {
+	background-image: image(images/header.jpg);
+	opacity: 0.45;
+}
