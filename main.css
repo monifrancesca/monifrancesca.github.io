@@ -26,6 +26,7 @@ h4 {
 p {
 	font-family: 'Domine', serif;
 	font-size: 18px;
+	margin-bottom: 20px;
 }
 
 a {
@@ -144,5 +145,5 @@ section h1 {
 	background-color: #fff;
 	border-radius: 4px 10px 10px 10px;
 	background-image: url('images/header.jpg');
-	opacity: 80%;
+	opacity: 20%;
 }
