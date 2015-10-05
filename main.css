@@ -120,5 +120,6 @@ a:active {
 	box-shadow: 1px 1px 2px #cecece,
 	inset 1px 1px 2px #000;
 	padding: 20px 20px 20px 20px;
+	margin-bottom: 20px;
 	background-color: #fff;
 }
