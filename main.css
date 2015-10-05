@@ -140,7 +140,7 @@ section h1 {
 	src: url();
 }
 
-header contact_info {
-	background-image: url(images/header.jpg);
+.contact_info {
+	background-image: url('images/header.jpg');
 	opacity: 50%;
 }
