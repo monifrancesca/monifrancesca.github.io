@@ -117,7 +117,7 @@ a:active {
 }
 
 .box {
-	box-shadow: 1px 1px 2px #cecece,
+	box-shadow: inset 1px 1px 2px #cecece,
 	inset 1px 1px 2px #fff;
 	padding: 20px 20px 20px 20px;
 	background-color: #fff;
