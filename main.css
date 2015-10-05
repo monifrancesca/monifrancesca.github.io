@@ -139,7 +139,7 @@ section h1 {
 	font-family: sans-serif;
 	src: url();
 }
-header .contact_info {
+header contact_info {
 	background-image: image(images/header.jpg);
 	opacity: 0.45;
 }
