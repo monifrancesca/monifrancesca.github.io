@@ -5,10 +5,7 @@ ul li { margin:0; padding:0; }
 
 ul {
 	margin-left: 20px;
-}
-
-.other h4 {
-	color: #4F484F;
+	margin-bottom: 10px;
 }
 
 body {
@@ -126,6 +123,10 @@ section h1 {
 	margin-bottom: 20px;
 }
 
+.other h4 {
+	color: #4F484F;
+}
+
 .box {
 	box-shadow: 1px 1px 2px #cecece,
 	inset 1px 1px 2px #000;
@@ -135,12 +136,13 @@ section h1 {
 	border-radius: 4px 10px 10px 10px;
 }
 
-@font-face {
-	font-family: sans-serif;
-	src: url();
-}
-
-.contact_info {
+.header_box {
+	box-shadow: 1px 1px 2px #cecece,
+	inset 1px 1px 2px #000;
+	padding: 20px 20px 20px 20px;
+	margin-bottom: 40px;
+	background-color: #fff;
+	border-radius: 4px 10px 10px 10px;
 	background-image: url('images/header.jpg');
 	opacity: 80%;
 }
