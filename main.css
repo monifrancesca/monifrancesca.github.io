@@ -141,6 +141,6 @@ section h1 {
 }
 
 .contact_info {
-	background-image: image(images/header.jpg);
+	background-image: url(images/header.jpg);
 	opacity: 0.45;
 }
